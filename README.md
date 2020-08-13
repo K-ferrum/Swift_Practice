@@ -11,3 +11,7 @@
 3. Sign Up Form
 
 // 회원가입 폼
+
+4. App Life Cycle
+
+// 앱 생명주기
